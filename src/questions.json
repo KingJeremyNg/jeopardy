@@ -1,0 +1,102 @@
+[
+    {
+        "label": "Pokemon (Gen 1)",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            },
+            {
+                "value": 200,
+                "question": "question2",
+                "answer": "answer2"
+            },
+            {
+                "value": 300,
+                "question": "question3",
+                "answer": "answer3"
+            },
+            {
+                "value": 400,
+                "question": "question1",
+                "answer": "answer1"
+            },
+            {
+                "value": 500,
+                "question": "question2",
+                "answer": "answer2"
+            }
+        ]
+    },
+    {
+        "label": "Anime Shows",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "Old School Games",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "The Boys",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "General Ryerson Things",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "Outings with the Boys",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "Desserts",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    },
+    {
+        "label": "Nerd's Desk Items",
+        "clues": [
+            {
+                "value": 100,
+                "question": "question1",
+                "answer": "answer1"
+            }
+        ]
+    }
+]
