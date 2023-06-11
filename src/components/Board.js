@@ -1,5 +1,5 @@
 import Card from "./Card";
-import questions from "../questions";
+import questions from "../questions.json";
 
 const Board = () => {
     return (
@@ -16,6 +16,7 @@ const Board = () => {
                                         question={clue.question}
                                         answer={clue.answer}
                                         label={clue.value}
+                                        imgLink={clue.link}
                                     />
                                 </div>
                             )

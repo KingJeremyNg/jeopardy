@@ -4,28 +4,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "The name of the pokemon that resembles a rat.",
+                "answer": "Rattata or Raticate"
             },
             {
                 "value": 200,
-                "question": "question2",
-                "answer": "answer2"
+                "question": "The first gym leader that Ash battles against.",
+                "answer": "Brock"
             },
             {
                 "value": 300,
-                "question": "question3",
-                "answer": "answer3"
+                "question": "The group of pokemon identified by the fact that they all wear sunglasses.",
+                "answer": "Squirtle Squad"
             },
             {
                 "value": 400,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "Also known as JJM, the name of the group who adopted a stray pokemon from Camp Pokehearst.",
+                "answer": "Team Rocket (JJM - Jessie, James, Meowth)"
             },
             {
                 "value": 500,
-                "question": "question2",
-                "answer": "answer2"
+                "question": "The rare and elusive Mythical Pokemon with the Pokedex number 151.",
+                "answer": "Mew"
             }
         ]
     },
@@ -34,8 +34,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "The anime series that features a rubber man.",
+                "answer": "One Piece"
+            },
+            {
+                "value": 200,
+                "question": "From the long-running anime series, Naruto, this is Kakashi's favourite hobby.",
+                "answer": "Reading"
+            },
+            {
+                "value": 300,
+                "question": "The genre of music that is prevalent throughout the Cowboy Bebop anime series",
+                "answer": "Jazz"
+            },
+            {
+                "value": 400,
+                "question": "From Attack on Titan, this is the meaning of the acronym 'ODM' gear.",
+                "answer": "Omni-directional Mobility Gear"
+            },
+            {
+                "value": 500,
+                "question": "In collaboration with studio Ufotable in 2022, a mobile game company announced an anime.",
+                "answer": "Genshin Impact or Mihoyo"
             }
         ]
     },
@@ -44,8 +64,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "A game where plumbers travel through pipes.",
+                "answer": "Super Mario Bros"
+            },
+            {
+                "value": 200,
+                "question": "The character that eats dots and avoids someone named Clyde.",
+                "answer": "Pac-Man"
+            },
+            {
+                "value": 300,
+                "question": "The name of the mod that started the MOBA gaming genre.",
+                "answer": "Dota"
+            },
+            {
+                "value": 400,
+                "question": "The first ever video game to be created.",
+                "answer": "Pong"
+            },
+            {
+                "value": 500,
+                "question": "The classic board game that is known to ruin relationships.",
+                "answer": "Monopoly"
             }
         ]
     },
@@ -54,8 +94,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "The person who often use and advocate MBTI.",
+                "answer": "Jeremy"
+            },
+            {
+                "value": 200,
+                "question": "The person who dressed up in a shark onesie for a halloween midterm.",
+                "answer": "Linh"
+            },
+            {
+                "value": 300,
+                "question": "The person who is associated with the saying, 'DONT TOUCH ME'.",
+                "answer": "Christian"
+            },
+            {
+                "value": 400,
+                "question": "The person who will phonetically spell your name.",
+                "answer": "KC"
+            },
+            {
+                "value": 500,
+                "question": "From my memory, this is the name of our group at an escape room.",
+                "answer": "Code Monkeys, 'leave it blank', Degens"
             }
         ]
     },
@@ -64,8 +124,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "Slang for a youthful person that is a waste of time and space.",
+                "answer": "Waste Yute"
+            },
+            {
+                "value": 200,
+                "question": "A musician and street performer who is often seen at Yonge and Dundas.",
+                "answer": "Duck Man"
+            },
+            {
+                "value": 300,
+                "question": "This animal is the new mascot of TMU.",
+                "answer": "Falcon"
+            },
+            {
+                "value": 400,
+                "question": "The full name of the person who is responsible for the 2019 RSU scandal.",
+                "answer": "Ram Ganesh"
+            },
+            {
+                "value": 500,
+                "question": "A room inside the ENG building where many networking or conference events happen.",
+                "answer": "Sears Atrium"
             }
         ]
     },
@@ -74,8 +154,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "On this year's christmas, THE BOYS held a secret santa.",
+                "answer": "2020"
+            },
+            {
+                "value": 200,
+                "question": "THE BOYS went to Canada's Wonderland during this particular event.",
+                "answer": "Halloween Haunt"
+            },
+            {
+                "value": 300,
+                "question": "The name of the escape room that THE BOYS went to.",
+                "answer": "Wine Cellar"
+            },
+            {
+                "value": 400,
+                "question": "These are the 3 instruments that were brought in on a school day. ",
+                "answer": "2 Ukuleles and a Violin"
+            },
+            {
+                "value": 500,
+                "question": "After all final exams, THE BOYS went to eat at this restaurant.",
+                "answer": "Korean Grill House"
             }
         ]
     },
@@ -84,8 +184,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "A finely crushed or shaved ice topped with sweet condiments or syrups.",
+                "answer": "Shave Ice or Snow Cone"
+            },
+            {
+                "value": 200,
+                "question": "This frozen dessert is made by churning a mixture of cream, sugar, and flavorings.",
+                "answer": "Ice Cream"
+            },
+            {
+                "value": 300,
+                "question": "This is sold in powdered form. Typically it is dissolved in hot water and left to chill.",
+                "answer": "Jello"
+            },
+            {
+                "value": 400,
+                "question": "A delicate pastry made with layers of thin, flaky dough and typically filled with cream or fruit.",
+                "answer": "Croissant"
+            },
+            {
+                "value": 500,
+                "question": "A cake that is made with sprinkles mixed in the batter.",
+                "answer": "Funfetti or Confetti Cake"
             }
         ]
     },
@@ -94,8 +214,28 @@
         "clues": [
             {
                 "value": 100,
-                "question": "question1",
-                "answer": "answer1"
+                "question": "A small handheld device that spins to relieve stress.",
+                "answer": "Fidget Spinner"
+            },
+            {
+                "value": 200,
+                "question": "Something a weeb would have.",
+                "answer": "Figurines"
+            },
+            {
+                "value": 300,
+                "question": "An input device used with popular entertainment systems.",
+                "answer": "Controller"
+            },
+            {
+                "value": 400,
+                "question": "It seals the skin, locking in moisture and nutrients, while protecting it from environmental irritants",
+                "answer": "Moisturizer"
+            },
+            {
+                "value": 500,
+                "question": "A soft, thin, pliable, and absorbent paper made from wood or recycled paper.",
+                "answer": "Tissue Paper"
             }
         ]
     }

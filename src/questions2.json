@@ -1,0 +1,247 @@
+[
+    {
+        "label": "Ryerson Courses",
+        "clues": [
+            {
+                "value": 200,
+                "question": "The course where we learn Jython",
+                "answer": "Computer Science 1 or CPS 109"
+            },
+            {
+                "value": 400,
+                "question": "We learn Dragonizibilaisty~~ in this course.",
+                "answer": "Linear Algebra or CPS 108"
+            },
+            {
+                "value": 600,
+                "question": "The name of our Calculus professor who smokes outside the cineplex.",
+                "answer": "Dr. Dzung Minh Ha"
+            },
+            {
+                "value": 800,
+                "question": "The course that Jeremy has never attended.",
+                "answer": "Ethics or CPS 412"
+            },
+            {
+                "value": 1000,
+                "question": "The course where the professor reads slides from 2007, written with comic sans font.",
+                "answer": "Web Dev or CPS 530"
+            }
+        ]
+    },
+    {
+        "label": "League Champion Skills",
+        "clues": [
+            {
+                "value": 200,
+                "question": "Ezreal's skillshot that reduces cooldowns upon hitting an enemy unit.",
+                "answer": "Mystic Shot"
+            },
+            {
+                "value": 400,
+                "question": "Zac bounces after the cast time, then bounces 3 additional times each second over 3 seconds,",
+                "answer": "Let's Bounce!"
+            },
+            {
+                "value": 600,
+                "question": "Lulu enlarges herself or the target allied champion.",
+                "answer": "Wild Growth"
+            },
+            {
+                "value": 800,
+                "question": "Akali drops a cover of smoke and briefly gains Move Speed.",
+                "answer": "Twilight Shroud"
+            },
+            {
+                "value": 1000,
+                "question": "Caitlyn sets a visible trap at the target location that is Untargetable and arms after 1 second, lasting for a duration.",
+                "answer": "Yordle Snap Trap"
+            }
+        ]
+    },
+    {
+        "label": "Ryerson Buildings",
+        "clues": [
+            {
+                "value": 200,
+                "question": "This building is the most common hang out spot for our group.",
+                "answer": "SCC (Student Campus Centre)"
+            },
+            {
+                "value": 400,
+                "question": "This building has a food court that serves a $7 student special lunch.",
+                "answer": "Atrium on Bay"
+            },
+            {
+                "value": 600,
+                "question": "This is the name of the 2nd floor on SLC (Student Learning Centre)",
+                "answer": "The Bridge"
+            },
+            {
+                "value": 800,
+                "question": "MAC (Mattamy Athletic Centre) is formerly known as this.",
+                "answer": "Maple Leaf Gardens"
+            },
+            {
+                "value": 1000,
+                "question": "DCC (Daphne Cockwell Complex) is purpose-built for this particular major or field.",
+                "answer": "Health Sciences or Public Health"
+            }
+        ]
+    },
+    {
+        "label": "TeamFight Tactics",
+        "clues": [
+            {
+                "value": 200,
+                "question": "This is the item that allows units to deal bonus damage based on the target's maximum health.",
+                "answer": "Giant Slayer"
+            },
+            {
+                "value": 400,
+                "question": "The name of the default little legend.",
+                "answer": "River Sprite"
+            },
+            {
+                "value": 600,
+                "question": "This is the least used craftable item as of set 8.5",
+                "answer": "Tactician's Crown"
+            },
+            {
+                "value": 800,
+                "question": "This is the term used in TFT to describe the action of equipping an item on a champion, enhancing their stats or providing unique effects.",
+                "answer": "Itemization"
+            },
+            {
+                "value": 1000,
+                "question": "This champion has the most appearances in the history of TFT.",
+                "answer": "Lulu or Yasuo"
+            }
+        ]
+    },
+    {
+        "label": "E-Sports",
+        "clues": [
+            {
+                "value": 200,
+                "question": "This is League of Legend's main competitor.",
+                "answer": "Dota 2"
+            },
+            {
+                "value": 400,
+                "question": "This e-sport game, known for its fast-paced action and team-based gameplay, features heroes with unique abilities.",
+                "answer": "Overwatch"
+            },
+            {
+                "value": 600,
+                "question": "The highest paid League of Legends player.",
+                "answer": "Faker"
+            },
+            {
+                "value": 800,
+                "question": "The most viewed League of Legends tournament.",
+                "answer": "2022 Worlds T1 vs DRX"
+            },
+            {
+                "value": 1000,
+                "question": "This tounament has the highest prize pool of all time in e-sports",
+                "answer": "The Dota 2 International 2021"
+            }
+        ]
+    },
+    {
+        "label": "Country Flags",
+        "clues": [
+            {
+                "value": 200,
+                "question": "",
+                "answer": "Canada",
+                "link": "https://cdn.britannica.com/68/7068-004-7848FEB4/Flag-Canada.jpg"
+            },
+            {
+                "value": 400,
+                "question": "",
+                "answer": "Vietnam",
+                "link": "https://cdn.britannica.com/41/4041-004-D051B135/Flag-Vietnam.jpg"
+            },
+            {
+                "value": 600,
+                "question": "",
+                "answer": "Trinidad and Tobago",
+                "link": "https://cdn.britannica.com/28/5128-050-8FD50B19/Flag-Trinidad-and-Tobago.jpg"
+            },
+            {
+                "value": 800,
+                "question": "",
+                "answer": "North Korea",
+                "link": "https://cdn.britannica.com/47/1947-004-44F4E790/Flag-North-Korea.jpg"
+            },
+            {
+                "value": 1000,
+                "question": "",
+                "answer": "Mozambique",
+                "link": "https://cdn.britannica.com/23/4223-004-76407A84/Flag-Mozambique.jpg"
+            }
+        ]
+    },
+    {
+        "label": "Adult Toys",
+        "clues": [
+            {
+                "value": 200,
+                "question": "This type of anal toy is similar to a dildo in design, but are shortened in order to prevent damage to the bowels",
+                "answer": "Butt Plug"
+            },
+            {
+                "value": 400,
+                "question": "This type of dildo tend to have different sized shafts pointing in opposite directions and used to accomplish penetration at the same time for both partners.",
+                "answer": "Double-ended dildo"
+            },
+            {
+                "value": 600,
+                "question": "These life-like toys are designed to have at least 2 openings, sometimes 3, for penetration.",
+                "answer": "Sex Doll"
+            },
+            {
+                "value": 800,
+                "question": "These toys are designed to imitate the female sex organ and can be made to have pubic hair or vibrate to help stimulate the person using it.",
+                "answer": "Artificial Vagina or Pocket Pussy"
+            },
+            {
+                "value": 1000,
+                "question": "Which type of vibrator is usually small, portable, and either metallic or covered in soft rubber that can be used all over the body to stimulate such parts like the labia, nipples, clitoris, and scrotum?",
+                "answer": "Bullet Vibrator"
+            }
+        ]
+    },
+    {
+        "label": "Science",
+        "clues": [
+            {
+                "value": 200,
+                "question": "This is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen.",
+                "answer": "Photosynthesis"
+            },
+            {
+                "value": 400,
+                "question": "This fundamental concept that refers to the logical steps and instructions that tell a computer how to solve a problem or perform a task.",
+                "answer": "Algorithm"
+            },
+            {
+                "value": 600,
+                "question": "The motion in which a fluid travels smoothly or in regular paths.",
+                "answer": "Laminar Flow"
+            },
+            {
+                "value": 800,
+                "question": "The use of medicines to prevent pain during surgery and other procedures.",
+                "answer": "Anesthesia"
+            },
+            {
+                "value": 1000,
+                "question": "This is the duration, measured in milliseconds, from when a browser sends a request to when it receives a response from a server.",
+                "answer": "Round-trip Time (RTT)"
+            }
+        ]
+    }
+]
